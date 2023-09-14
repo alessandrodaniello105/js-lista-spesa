@@ -23,6 +23,6 @@ while (counterSpesa < listaSpesa.length) {
 
   console.log(item);
 
-  output.innerHTML += `${item} `;
+  output.innerHTML += `${item} <br>`;
 
 };
